@@ -5,3 +5,10 @@ history of code changes so that reciepts are kept for everything that is
 important for code. Additionally, git is a great way to ensure seamless 
 collaboration on the same code if multiple people are working on the same 
 exact code.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied to healthcare. In healthcare, data 
+science can help improve the process in which medicine is produced, and can 
+even be used to diagnose diseases in patients and figure out how to deal with 
+these diseases in these patients best.
