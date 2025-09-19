@@ -21,3 +21,10 @@ combine the commits across several different branches into a single branch,
 whereas with rebasing, we take our commits and put them on top of another 
 branch to make it seem as if all of the changes were made in the same exact 
 codebase.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to diving deep into the data science. This course 
+is the first experience that I have had with data science, so I'm really 
+looking forward to learning a computer science concept that's a bit different 
+from what I'd been working on recently.
